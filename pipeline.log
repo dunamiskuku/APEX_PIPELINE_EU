@@ -1,0 +1,8 @@
+2026-06-17 08:37:05,241 INFO pipeline started
+2026-06-17 08:37:06,129 INFO Extracted data for MSFT: 30 rows
+2026-06-17 08:37:07,543 INFO Extracted data for AAPL: 30 rows
+2026-06-17 08:37:08,250 INFO Extracted data for GOOGL: 30 rows
+2026-06-17 08:37:09,012 INFO Extracted data for AMZN: 30 rows
+2026-06-17 08:37:09,013 INFO Total records extracted: 120
+2026-06-17 08:37:09,066 INFO transformed done: 120 rows
+2026-06-17 08:37:10,388 INFO data loaded to database: 120 rows
